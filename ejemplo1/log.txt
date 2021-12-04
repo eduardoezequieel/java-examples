@@ -1,0 +1,6 @@
+REGISTRO DE PRODUCTOS INGRESADOS
+
+1. Producto: Ropa, Precio: $120.0, IVA: $15.60, Precio Total: $135.60
+2. Producto: Zapato, Precio: $78.0, IVA: $10.14, Precio Total: $88.14
+3. Producto: Comida, Precio: $10.0, IVA: $1.30, Precio Total: $11.30
+
